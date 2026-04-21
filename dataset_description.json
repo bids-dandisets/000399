@@ -4,7 +4,9 @@
     "HEDVersion": "8.3.0",
     "Description": "Data included in Fan (2022) Cell",
     "DatasetType": "raw",
-    "Authors": [],
+    "Authors": [
+        "Fan, Linlin"
+    ],
     "License": "CC-BY-4.0",
     "GeneratedBy": [
         {
